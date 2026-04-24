@@ -29,4 +29,7 @@ public class Demo1Application {
 	public String getStatus2() {
 		return "Application is running";
 	}
+	public String getC() {
+		return "C";
+	}
 }
