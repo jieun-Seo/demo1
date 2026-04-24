@@ -37,4 +37,7 @@ public class Demo1Application {
 	public String getB() {
 		return "B";
 	}
+	public String getC() {
+		return "C";
+	}
 }
